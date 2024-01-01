@@ -60,7 +60,7 @@ This foundational week aims to ensure that all students possess a robust underst
 The final weeks will be dedicated to a comprehensive capstone project, allowing students to apply their knowledge and skills to solve a real-world data science problem.
 
 # Learning Outcomes
-1. Students will be able to explain key concepts
-2. Students will be able to use existing knowledge to solve new problems or apply acquired knowledge in new situations
-3. Students will be able to develop expertise in the subject or tool through practical projects.
-4. Students will be able to develop in-demand skills
+1. Students will be able to explain key concepts of data science and machine learning.
+2. Students will be able to use existing machine learning algorithms to solve new problems or design machine learning algorithms in new situations
+3. Students will be able to develop expertise in data science tools and machine learning algorithms through practical projects.
+4. Students will be able to develop in-demand skills.
